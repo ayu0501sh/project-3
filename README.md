@@ -1,4 +1,3 @@
 # New Project
 
-This project was created from local system.
-Created by Ayush Bhartiya.
+This project was created by Ayush Bhartiya.
